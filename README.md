@@ -5,3 +5,6 @@
 在除论文以外的其他场所同样适用，只要你需要自动大量的去掉一段话中的换行符
 ## 运行截图
 ![](ScreenShot.png)
+## 可执行文件链接（windows）
+链接：https://pan.baidu.com/s/1Y87r7ji8zZTmCLOhpCOqSA  
+提取码：v0tq  
